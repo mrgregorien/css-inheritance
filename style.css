@@ -1,0 +1,17 @@
+html {
+    margin: 50px auto;
+    width: 800px;
+    font-size: 10px;
+}
+
+body .container .main-content {
+    color: aqua;
+}
+
+.container {
+    background-color: black;
+}
+
+.container section {
+    color: white;
+}
